@@ -1,4 +1,4 @@
-# Beyond Correctness: Distance-Based Social Dynamics of Multi-Agent Debate
+# Beyond Correctness: Distance-Based Social Dynamics of Multi-Agent Debate (2026)
 
 ![Fig1](/Fig1.png)
 
