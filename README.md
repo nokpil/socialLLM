@@ -1,6 +1,6 @@
 # Beyond Correctness: Distance-Based Social Dynamics of Multi-Agent Debate (2026)
 
-![Fig1](/Fig1.png)
+![Fig1](Fig1.png)
 
 Open codebase for the paper "Beyond Correctness: Distance-Based Social Dynamics of Multi-Agent Debate". (Currently anonymized, will be fully prepared after the review process.)
 - File description
